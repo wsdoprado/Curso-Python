@@ -94,3 +94,5 @@ curso2 = ['Programação', 'em', 'Python', 'Essencial']
 print(curso2)
 curso2 = ' '.join(curso2)
 print(curso2)
+
+print(curso2)
